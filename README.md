@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AccuKnox User Management Tests
 
 This project contains automated test cases for the User Management module in OrangeHRM using Playwright.
@@ -52,3 +53,6 @@ git push
 Author
 
 Domakuntla Harsha Vardhan
+=======
+# AccuKnox-user-management-tests
+>>>>>>> 3dc31417bebe165a987baf65287ab0f3c5f420fe
