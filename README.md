@@ -48,3 +48,7 @@ In your command prompt:
 git add README.md
 git commit -m "Added README file with setup and instructions"
 git push
+
+Author
+
+Domakuntla Harsha Vardhan
